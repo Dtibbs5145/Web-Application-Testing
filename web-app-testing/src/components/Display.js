@@ -1,0 +1,1 @@
+//Show the results of buttons after clicked
